@@ -1,0 +1,38 @@
+{
+  "title": "Beyond the Bohr-Kronecker Torus Barrier: Semiprime Phase-Locking, Quantized Hadamard-Krein Flux Defects pi*Theta(d - d_*), and the Exact Chladni-Wronskian Wall Identity for Riemann's Xi-Function",
+  "description": "Paper X of the series on the Transverse Wronskian of Riemann's Xi-Function. Establishes three structural closure theorems beyond the Bohr-Kronecker / Voronin torus barrier: (1) the exponential Bohr-Kronecker recurrence time bound T_Kronecker(t) >> t and the exact semiprime quadratic restoration identity |1 + P_{>X}(s) + 1/2 P_{>X}(s)^2|^2 = 1/4 ((1+U)^2 + 1 - V^2)^2 + V^2(1+U)^2 >= 1/4 on V=0; (2) the quantized Hadamard-Krein flux-defect law int_{-infty}^{infty} K(d, d_*, u) du = pi*Theta(d - d_*), proving that any off-critical zero pair suffers a -pi topological flux defect across 0 < d < d_* and forces a Sylvester inertia jump nu_- >= 1 in the de Branges reproducing-kernel Gram matrix; and (3) the exact 1D Chladni-Wronskian Wall Identity W_tilde(d, tau_k(d)) = R(d, tau_k(d)) * d_t I(d, tau_k(d)) / d along imaginary nodal curves I(d, tau_k(d)) = 0 coupled with Jacobi triple-product zero-freeness in |Im(u)| < pi/8.",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "creators": [
+    {
+      "name": "Missiaen, Thijs",
+      "affiliation": "Independent Researcher, Belgium",
+      "orcid": "0009-0007-3678-0810"
+    }
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/thijsmissiaen/paper10-spectral-resonance-chladni",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ],
+  "access_right": "open",
+  "license": "MIT",
+  "keywords": [
+    "Riemann Xi-function",
+    "Transverse Wronskian",
+    "Bohr-Kronecker torus recurrence",
+    "Semiprime phase-locking",
+    "Hadamard-Krein flux defect",
+    "De Branges reproducing kernel",
+    "Sylvester signature obstruction",
+    "Chladni nodal walls",
+    "Jacobi triple product",
+    "MSC 11M06",
+    "MSC 11M26",
+    "MSC 30D15",
+    "MSC 46C20"
+  ],
+  "version": "1.0.0"
+}

@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0.0",
+  "name": "spectral-resonance-chladni-closure",
+  "title": "Beyond the Bohr-Kronecker Torus Barrier: Semiprime Phase-Locking, Quantized Hadamard-Krein Flux Defects pi*Theta(d - d_*), and the Exact Chladni-Wronskian Wall Identity for Riemann's Xi-Function",
+  "version": "1.0.0",
+  "author": {
+    "name": "Thijs Missiaen",
+    "affiliation": "Independent Researcher, Belgium",
+    "email": "thijs.missiaen@gmail.com",
+    "orcid": "0009-0007-3678-0810"
+  },
+  "repository": "https://github.com/thijsmissiaen/paper10-spectral-resonance-chladni",
+  "license": "MIT",
+  "msc_2020": ["11M06", "11M26", "30D15", "46C20"],
+  "entrypoints": {
+    "skill": ".agents/skills/spectral-resonance-chladni-closure/SKILL.md",
+    "manuscript_tex": "paper/paper10_spectral_resonance_chladni_closure.tex",
+    "manuscript_pdf": "paper/paper10_spectral_resonance_chladni_closure.pdf",
+    "verification_script": "scripts/verify_paper10_spectral_resonance_chladni_closure.py",
+    "figures": [
+      "paper/figures/fig1_semiprime_phase_locking_and_flux_defect.png",
+      "paper/figures/fig2_sylvester_signature_and_chladni_wall_identity.png"
+    ]
+  },
+  "core_theorems": [
+    "Theorem 1.1: Exponential Kronecker Recurrence Barrier, Semiprime Quadratic Restoration, Quantized Hadamard-Krein Flux Defect, and Exact Chladni-Wronskian Wall Identity",
+    "Theorem 2.1: Exponential Bohr-Kronecker Recurrence Horizon vs. Riemann-Siegel Saddle Horizon Growth",
+    "Theorem 2.2: Semiprime Phase-Locking and Exact Quadratic Sum-of-Squares Restoration on (X, N(t)]",
+    "Theorem 3.1: Quantized Topological Hadamard-Krein Flux-Defect Law pi*Theta(d - d_*) and Exact Arcsine Lobe Cancellation",
+    "Theorem 3.2: Krein-Space Sylvester Inertia Jump vs. Positive-Definite Symplectic Mode Ellipses",
+    "Theorem 4.1: Exact 1D Chladni-Wronskian Wall Identity and Jacobi Triple-Product Zero-Freeness in |Im(u)| < pi/8"
+  ],
+  "verification_command": "python scripts/verify_paper10_spectral_resonance_chladni_closure.py"
+}
