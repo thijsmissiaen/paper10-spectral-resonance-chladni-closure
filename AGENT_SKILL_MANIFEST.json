@@ -2,7 +2,8 @@
   "schema_version": "1.0.0",
   "name": "spectral-resonance-chladni-closure",
   "title": "Combinatorial Euler-Sieve Identities, Hadamard-Poisson Flux Detection, and Conditional Nodal-Wall Identities for Riemann's Xi-Function",
-  "version": "2.0.0",
+  "version": "10.1.0",
+  "doi": "10.5281/zenodo.23645893",
   "author": {
     "name": "Thijs Missiaen",
     "affiliation": "Independent Researcher, Belgium",

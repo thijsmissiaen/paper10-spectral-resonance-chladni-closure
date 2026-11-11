@@ -1,6 +1,7 @@
 # Combinatorial Euler-Sieve Identities, Hadamard–Poisson Flux Detection, and Conditional Nodal-Wall Identities for Riemann's Xi-Function
 
 **Author:** Thijs Missiaen (Independent Researcher, Belgium · ORCID: [0009-0007-3678-0810](https://orcid.org/0009-0007-3678-0810))  
+**DOI (Zenodo / CERN):** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23645893.svg)](https://doi.org/10.5281/zenodo.23645893) [`10.5281/zenodo.23645893`](https://doi.org/10.5281/zenodo.23645893) (`v10.1.0`: [`10.5281/zenodo.24141071`](https://doi.org/10.5281/zenodo.24141071))  
 **Manuscript:** [`paper/paper10_spectral_resonance_chladni_closure.pdf`](paper/paper10_spectral_resonance_chladni_closure.pdf) (AMS-LaTeX, 9 pages) · [`paper/paper10_spectral_resonance_chladni_closure.tex`](paper/paper10_spectral_resonance_chladni_closure.tex)  
 **Verification Suite:** [`scripts/verify_paper10_spectral_resonance_chladni_closure.py`](scripts/verify_paper10_spectral_resonance_chladni_closure.py) (50-digit `mpmath`)  
 **MSC 2020:** Primary `11M06`, `11M26`; Secondary `30D15`, `46C20`
